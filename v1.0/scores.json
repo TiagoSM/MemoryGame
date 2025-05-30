@@ -1,0 +1,42 @@
+[
+  {
+    "playerName": "Tiago",
+    "attempts": 20
+  },
+  {
+    "playerName": "Tiago",
+    "attempts": 24
+  },
+  {
+    "playerName": "Player1",
+    "attempts": 100
+  },
+  {
+    "playerName": "Player0",
+    "attempts": 100
+  },
+  {
+    "playerName": "Player1",
+    "attempts": 100
+  },
+  {
+    "playerName": "Player0",
+    "attempts": 100
+  },
+  {
+    "playerName": "Player1",
+    "attempts": 100
+  },
+  {
+    "playerName": "Player0",
+    "attempts": 100
+  },
+  {
+    "playerName": "Player1",
+    "attempts": 101
+  },
+  {
+    "playerName": "Player1",
+    "attempts": 101
+  }
+]
